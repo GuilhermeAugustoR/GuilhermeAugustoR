@@ -1,6 +1,6 @@
-# <div align="center"> Hello there :wave: </div>
+# <div align="center"> Olá 😀 </div>
 
-### <div align="center"> Developer Web/Mobile 💻📱</div>
+### <div align="center"> Developer Web 💻 /Mobile 📱</div>
 
 <img alt="code" src="https://i.imgur.com/WA1XXsw.gif" width="100%" height="400px"/> 
 </br>
